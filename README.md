@@ -16,3 +16,4 @@ The analysis is performed using Power BI, a powerful business intelligence tool 
 
 
 
+![Screenshot (17)](https://github.com/bhavibhat/Ecommerece-sales-dashboard/assets/140182551/57d0e62d-15e9-4a2d-88dc-850dc8ed20f2)
